@@ -2,4 +2,4 @@
 
 class person
   def initalize
-    
+  end
