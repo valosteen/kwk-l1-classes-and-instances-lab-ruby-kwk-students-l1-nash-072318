@@ -1,6 +1,7 @@
 # person.rb
 
-class person
+class Person
+  
   def initalize
   end
   
